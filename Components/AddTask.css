@@ -1,0 +1,37 @@
+input {
+    margin: 10px;
+    padding: 5px 10px;
+    font-size: 20px;
+}
+
+.form {
+    font-size: 20px;
+}
+
+.form button.main {
+    padding: 7px 20px;
+    text-transform: uppercase;
+    margin: 20px;
+    font-size: 20px;
+    border: 2px solid orange;
+    border-radius: 8px;
+    line-height: 150%;
+}
+
+
+  
+
+label.priority {
+    color: white;
+    text-transform: uppercase;
+    border-bottom: 1px solid white;
+    
+}
+input {
+    line-height: 150%;
+}
+input.add {
+    line-height: 150%;
+}
+
+
